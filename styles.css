@@ -1050,7 +1050,7 @@ h2 {
 /* Mobile View Adjustments */
 @media (max-width: 768px) {
   .featured-label {
-    color: #02aec5b1;
+    color: #232323b1;
     padding: 0 6px !important; /* Reduce padding for smaller screens */
     margin-left: 5px !important; /* Adjust left margin for better alignment */
     font-weight: normal;
